@@ -1,6 +1,3 @@
-Good catch. Since **Google Apps Script is a key part of the architecture**, it should have its own section in the repository description.
-
-You can use this revised version:
 
 # SOS Wireless Alert System (ATtiny85 + nRF24L01 + ESP32 + Google Apps Script + Firebase)
 
