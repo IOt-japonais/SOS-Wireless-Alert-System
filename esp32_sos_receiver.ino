@@ -207,7 +207,6 @@ void setup() {
   // ESP32 remembers them after that
   WiFiManager wm;
   wm.setConfigPortalTimeout(120); // 2 min to enter credentials
-   wm.resetSettings(); ///test!!! remove it!!
   oledClear();
   display.println(F("Connecting WiFi..."));
   display.println();
